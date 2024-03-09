@@ -1,4 +1,12 @@
 /* css sheet */
+html {
+    min-height: 100%;
+    margin: 0;
+}
+body {
+    min-height: 100%;
+    margin: 0;
+}
 
 header {
   background-color: black;
@@ -13,7 +21,8 @@ header {
 
 body {
   height:100%;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 120px;
   font-family: 'Montserrat', sans-serif;
 }
@@ -45,6 +54,8 @@ ul {
 
 img {
   display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 footer {
