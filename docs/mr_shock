@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mr. Shock</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #ff5e5e;
+        }
+        p {
+            color: #444;
+            line-height: 1.6;
+        }
+        img {
+            max-width: 100%;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Mr. Shock</h1>
+        <img src="https://raw.githubusercontent.com/KlLLDOZER/hellostreetcat/main/img/mr_shock.png" alt="Illustration of Mr. Shock">
+        <p>In the bustling neighborhood of Hello Street, there lived a rather peculiar cat named Mr. Shock. He was known throughout the community for his unique appearance and even more unique behavior. Mr. Shock, also affectionately referred to as Brother Shock by the locals, had a perpetually shocked expression on his face that never seemed to fade away.</p>
+        <p>Now, Mr. Shock wasn't just your average cat; he had a particular fascination with food, especially when it came to the automated cat feeder located in the heart of Hello Street, known as the House of Compassion by the Strait. This feeder wasn't just any feeder—it was the centerpiece of a live-streamed event where people from all over the world could watch the neighborhood cats come and enjoy their meals.</p>
+        <p>Every day, at precisely the same time, Mr. Shock would saunter over to the House of Compassion by the Strait with his eyes wide open in anticipation. As soon as the feeder whirred to life and began dispensing food, his already shocked expression would somehow manage to become even more exaggerated. It was as if he couldn't believe his luck each time the kibble tumbled out.</p>
+        <p>The viewers of the livestream quickly became enamored with Brother Shock and eagerly awaited his daily visits. Some even tuned in just to witness his comically surprised reaction to the food dispenser.</p>
+        <p>But Mr. Shock's antics weren't just limited to the feeding times. He had a knack for getting into all sorts of mischief around Hello Street. From climbing trees to chasing butterflies, he always managed to keep the neighborhood entertained with his antics.</p>
+        <p>Despite his mischievous nature, Mr. Shock had a heart of gold. He would often spend his afternoons lounging in the sun, allowing the local children to pet him and giving affectionate headbutts to anyone who crossed his path.</p>
+        <p>As time went on, Mr. Shock's fame only grew, and he became a beloved icon of Hello Street. People would come from far and wide just to catch a glimpse of the famous cat with the perpetually shocked expression.</p>
+        <p>And so, with his endearing personality and his insatiable appetite, Mr. Shock continued to capture the hearts of everyone he met, proving that sometimes, it's the most unexpected characters who leave the biggest impression.</p>
+    </div>
+</body>
+</html>
