@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Gluttonous Beast of Hello Street
+title: Gluttonous Beast
 tags: [Happy Canteen]
 thumbnail-img: https://streetcatlove.github.io/hellostreetcat/assets/img/gluttonous_beast.png
 comments: false
