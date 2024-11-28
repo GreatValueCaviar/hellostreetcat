@@ -2,11 +2,11 @@
 layout: post
 title: Lucky Francis
 tags: [Turtle Island]
-thumbnail-img: /assets/img/lucky_francis.png
+thumbnail-img: https://streetcatlove.github.io/hellostreetcat/assets/img/lucky_francis.png
 comments: false
 ---
 
-![Lucky Francis](/assets/img/lucky_francis.png){: .mx-auto.d-block :}
+![Lucky Francis](https://streetcatlove.github.io/hellostreetcat/assets/img/lucky_francis.png){: .mx-auto.d-block :}
 
  In the hyperstitized Turtle Island Expansion of Hello Street, there is a charming kitten named Lucky Francis. Lucky Francis was a brown tabby kitten aproximately 3 weeks old.
 
@@ -14,10 +14,10 @@ Lucky Francis was taken in by the caretakers of the Birichino Buffet, a beloved 
 
 Gallery
 
-![Lucky Francis](/assets/img/lucky_francis0.png){: .mx-auto.d-block :}
-![Lucky Francis](/assets/img/lucky_francis1.png){: .mx-auto.d-block :}
-![Lucky Francis](/assets/img/lucky_francis2.png){: .mx-auto.d-block :}
-![Lucky Francis](/assets/img/lucky_francis3.png){: .mx-auto.d-block :}
-![Lucky Francis](/assets/img/lucky_francis4.png){: .mx-auto.d-block :}
-![Lucky Francis](/assets/img/lucky_francis5.png){: .mx-auto.d-block :}
-![Lucky Francis](/assets/img/lucky_francis6.png){: .mx-auto.d-block :}
+![Lucky Francis](https://streetcatlove.github.io/hellostreetcat/assets/img/lucky_francis0.png){: .mx-auto.d-block :}
+![Lucky Francis](https://streetcatlove.github.io/hellostreetcat/assets/img/lucky_francis1.png){: .mx-auto.d-block :}
+![Lucky Francis](https://streetcatlove.github.io/hellostreetcat/assets/img/lucky_francis2.png){: .mx-auto.d-block :}
+![Lucky Francis](https://streetcatlove.github.io/hellostreetcat/assets/img/lucky_francis3.png){: .mx-auto.d-block :}
+![Lucky Francis](https://streetcatlove.github.io/hellostreetcat/assets/img/lucky_francis4.png){: .mx-auto.d-block :}
+![Lucky Francis](https://streetcatlove.github.io/hellostreetcat/assets/img/lucky_francis5.png){: .mx-auto.d-block :}
+![Lucky Francis](https://streetcatlove.github.io/hellostreetcat/assets/img/lucky_francis6.png){: .mx-auto.d-block :}

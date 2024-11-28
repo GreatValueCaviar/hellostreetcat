@@ -2,11 +2,11 @@
 layout: post
 title: Ms. Horseshoe
 tags: [Baldie Carrot Cat Guardian]
-thumbnail-img: /assets/img/ms_horseshoe.png
+thumbnail-img: https://streetcatlove.github.io/hellostreetcat/assets/img/ms_horseshoe.png
 comments: false
 ---
 
-![Ms. Horseshoe](/assets/img/ms_horseshoe.png){: .mx-auto.d-block :}
+![Ms. Horseshoe](https://streetcatlove.github.io/hellostreetcat/assets/img/ms_horseshoe.png){: .mx-auto.d-block :}
 
 * Ms. Horseshoe is a mostly white black tabby
 * Ms. Horseshoe visits the Baldie Carrot Cat Gaurdian feeder

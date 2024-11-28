@@ -2,11 +2,11 @@
 layout: post
 title: The Gluttonous Beast of Hello Street
 tags: [Happy Canteen]
-thumbnail-img: /assets/img/gluttonous_beast.png
+thumbnail-img: https://streetcatlove.github.io/hellostreetcat/assets/img/gluttonous_beast.png
 comments: false
 ---
 
-![Gluttonous Beast](/assets/img/gluttonous_beast.png){: .mx-auto.d-block :}
+![Gluttonous Beast](https://streetcatlove.github.io/hellostreetcat/assets/img/gluttonous_beast.png){: .mx-auto.d-block :}
 
 * Gluttonous Beast is a mostly white orange tabby believed to be male
 * Gluttonous Beast visited the Happy Canteen feeder
@@ -21,10 +21,10 @@ Known Sightings
 
 Gallery 
 
-![Gluttonous Beast](/assets/img/gluttonous_beast0.png){: .mx-auto.d-block :}
-![Gluttonous Beast](/assets/img/gluttonous_beast1.png){: .mx-auto.d-block :}
-![Gluttonous Beast](/assets/img/gluttonous_beast2.png){: .mx-auto.d-block :}
-![Gluttonous Beast](/assets/img/gluttonous_beast3.png){: .mx-auto.d-block :}
-![Gluttonous Beast](/assets/img/gluttonous_beast4.png){: .mx-auto.d-block :}
-![Gluttonous Beast](/assets/img/gluttonous_beast5.png){: .mx-auto.d-block :}
-![Gluttonous Beast](/assets/img/gluttonous_beast6.png){: .mx-auto.d-block :}
+![Gluttonous Beast](https://streetcatlove.github.io/hellostreetcat/assets/img/gluttonous_beast0.png){: .mx-auto.d-block :}
+![Gluttonous Beast](https://streetcatlove.github.io/hellostreetcat/assets/img/gluttonous_beast1.png){: .mx-auto.d-block :}
+![Gluttonous Beast](https://streetcatlove.github.io/hellostreetcat/assets/img/gluttonous_beast2.png){: .mx-auto.d-block :}
+![Gluttonous Beast](https://streetcatlove.github.io/hellostreetcat/assets/img/gluttonous_beast3.png){: .mx-auto.d-block :}
+![Gluttonous Beast](https://streetcatlove.github.io/hellostreetcat/assets/img/gluttonous_beast4.png){: .mx-auto.d-block :}
+![Gluttonous Beast](https://streetcatlove.github.io/hellostreetcat/assets/img/gluttonous_beast5.png){: .mx-auto.d-block :}
+![Gluttonous Beast](https://streetcatlove.github.io/hellostreetcat/assets/img/gluttonous_beast6.png){: .mx-auto.d-block :}

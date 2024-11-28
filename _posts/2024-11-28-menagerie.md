@@ -2,7 +2,7 @@
 layout: post
 title: Hello Street Cat Menagerie
 tags: [Hello Street Cat]
-thumbnail-img: /assets/img/menagerie.png
+thumbnail-img: https://streetcatlove.github.io/hellostreetcat/assets/img/menagerie.png
 comments: false
 ---
 

@@ -2,11 +2,11 @@
 layout: post
 title: Mr. Wishbone
 tags: [Happy Canteen]
-thumbnail-img: /assets/img/mr_wishbone.png
+thumbnail-img: https://streetcatlove.github.io/hellostreetcat/assets/img/mr_wishbone.png
 comments: false
 ---
 
-![Mr. Wishbone](/assets/img/mr_wishbone.png){: .mx-auto.d-block :}
+![Mr. Wishbone](https://streetcatlove.github.io/hellostreetcat/assets/img/mr_wishbone.png){: .mx-auto.d-block :}
 
 * Mr. Wishbone is a white and orange tabby
 * Mr. Wishbone visits the Happy Canteen feeder
