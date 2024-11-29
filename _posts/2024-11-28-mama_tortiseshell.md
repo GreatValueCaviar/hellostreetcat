@@ -8,7 +8,7 @@ comments: false
 
 ![ Mama Tortiseshell](https://streetcatlove.github.io/hellostreetcat/assets/img/mama_t.png){: .mx-auto.d-block :}
 
-* Mama Tortiseshell is a calico with orange tabby with black markings
+* Mama Tortiseshell is a calico with orange tabby and black markings
 * Mama Tortiseshell has a white underside and pink nose surrounded by white
 * Mama Tortiseshell visits at the 10K Cat House Feeder
 * Mama Tortiseshell is believed to be the mother of Ms. Tux and Mr. Edo

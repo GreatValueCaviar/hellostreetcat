@@ -6,8 +6,6 @@ thumbnail-img: https://streetcatlove.github.io/hellostreetcat/assets/img/mr_piss
 comments: false
 ---
 
-The Piss Alliance
-
 ![Mr. Piss](https://streetcatlove.github.io/hellostreetcat/assets/img/mr_piss.png){: .mx-auto.d-block :}
 
 In the bustling heart of the city, where the rhythm of life reverberated through the streets and the neon glow illuminated the night, there thrived an unconventional alliance among street cats known as the Piss Alliance. Led by their bold and charismatic leader, Mr. Piss, and backed by his steadfast comrades Mr. Fresh, Mr. Snack, and Mr. Chicken, they prowled the urban landscape with a fierce determination and an unwavering commitment to their cause.
