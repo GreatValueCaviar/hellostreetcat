@@ -16,8 +16,9 @@ comments: false
 “We must not become complacent over any success. We should check our complacency and constantly criticize our shortcomings, just as we should wash our faces or sweep the floor every day to remove the dirt and keep them clean.” - The Gluttonous Beast on his continued success in defeating Mt. Kibble
 
 Known Sightings
-[5/9/2024](https://www.youtube.com/watch?v=gevwgbdkIEY)
-[3/29/2024 10:59](https://youtu.be/aOvPbR4vlzg?si=IntLdD8UelSv_lVl&t=39525)
+
+* [5/9/2024](https://www.youtube.com/watch?v=gevwgbdkIEY)
+* [3/29/2024 10:59](https://youtu.be/aOvPbR4vlzg?si=IntLdD8UelSv_lVl&t=39525)
 
 Gallery 
 

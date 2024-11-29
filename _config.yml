@@ -25,6 +25,7 @@ navbar-extra:
 navbar-links:
   Cat List: "/cat"
   Archives: "https://www.youtube.com/@street_cat_love"
+  Feeders: "/tags"
 
 ################
 # --- Logo --- #
