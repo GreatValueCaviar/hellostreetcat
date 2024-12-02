@@ -2,11 +2,8 @@
 layout: page
 title: Piss Alliance
 tags: [Forbidden Knowledge]
-thumbnail-img: https://streetcatlove.github.io/hellostreetcat/assets/img/mr_piss.png
 comments: false
 ---
-
-![Mr. Piss](https://streetcatlove.github.io/hellostreetcat/assets/img/mr_piss.png){: .mx-auto.d-block :}
 
 In the bustling heart of the city, where the rhythm of life reverberated through the streets and the neon glow illuminated the night, there thrived an unconventional alliance among street cats known as the Piss Alliance. Led by their bold and charismatic leader, Mr. Piss, and backed by his steadfast comrades Mr. Fresh, Mr. Snack, and Mr. Chicken, they prowled the urban landscape with a fierce determination and an unwavering commitment to their cause.
 
@@ -19,3 +16,5 @@ Empowered by their newfound understanding, the Piss Alliance organized themselve
 With each act of resistance, the Piss Alliance grew bolder and more formidable, striking fear into the hearts of their enemies and inspiring hope in the hearts of the downtrodden. They became symbols of defiance and liberation, rallying others to join their cause and fight for a better world.
 
 And so, as they roamed the streets of the city, their spirits ablaze with the fire of revolution, the members of the Piss Alliance continued to wage their war against oppression and injustice. United in their metaphysical unity with God and their unwavering commitment to the cause of liberation, they stood as beacons of hope in a world consumed by darkness, paving the way for a future where all beings could live in peace, freedom, and harmony.
+
+![Mr. Piss in the Act](https://streetcatlove.github.io/hellostreetcat/assets/img/mr_piss0.png){: .mx-auto.d-block :}
