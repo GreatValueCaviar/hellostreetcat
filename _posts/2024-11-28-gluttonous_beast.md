@@ -17,8 +17,14 @@ comments: false
 
 Known Sightings
 
-* [5/9/2024](https://www.youtube.com/watch?v=gevwgbdkIEY)
-* [3/29/2024 10:59](https://youtu.be/aOvPbR4vlzg?si=IntLdD8UelSv_lVl&t=39525)
+<details>
+<summary>Appearances</summary>
+<ul>
+	<li><a href="https://youtu.be/aOvPbR4vlzg?si=IntLdD8UelSv_lVl&t=39525">3/29/2024 10:59</a></li>
+	<li><a href="https://youtu.be/EnL5eV23JZw?si=OsE_7kRTm3hZF4Ob&t=28809">5/9/2024 08:06</a></li>
+</ul>
+</details>
+
 
 Gallery 
 
