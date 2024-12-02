@@ -5,7 +5,7 @@ tags: [Hello Street Cat]
 thumbnail-img: https://streetcatlove.github.io/hellostreetcat/assets/img/menagerie.png
 comments: false
 ---
-https://streetcatlove.github.io/hellostreetcat/assets/img/
+
 ![1](https://streetcatlove.github.io/hellostreetcat/assets/img/menagerie1.png){: .mx-auto.d-block :}
 ![1](https://streetcatlove.github.io/hellostreetcat/assets/img/menagerie2.png){: .mx-auto.d-block :}
 ![1](https://streetcatlove.github.io/hellostreetcat/assets/img/menagerie3.png){: .mx-auto.d-block :}
