@@ -5,7 +5,7 @@ tags: [Forbidden Knowledge]
 comments: false
 ---
 
-In the bustling heart of the city, where the rhythm of life reverberated through the streets and the neon glow illuminated the night, there thrived an unconventional alliance among street cats known as the Piss Alliance. Led by their bold and charismatic leader, Mr. Piss, and backed by his steadfast comrades Mr. Fresh, Mr. Snack, and Mr. Chicken, they prowled the urban landscape with a fierce determination and an unwavering commitment to their cause.
+In the bustling heart of the city, where the rhythm of life reverberated through the streets and the neon glow illuminated the night, there thrived an unconventional alliance among street cats known as the Piss Alliance. Led by their bold and charismatic leader, Mr. Piss, and backed by his steadfast comrades Mr. Fresh, Mr. Snack, and Mr. Void, they prowled the urban landscape with a fierce determination and an unwavering commitment to their cause.
 
 Their stronghold was a livestreamed feeder, a beacon of hope for the city's stray cats, where compassionate humans provided nourishment and shelter. Yet, amidst the abundance of food, the Piss Alliance had a peculiar habit—they occasionally marked their territory by anointing the feeder's provisions with a few drops of urine, a symbolic gesture of defiance against the oppressive forces that sought to control their lives.
 
