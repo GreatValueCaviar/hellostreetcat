@@ -12,7 +12,7 @@ comments: false
 * Mrs. Princess has a white marking above her nose and a black marking to the right of her nose 
 * Mrs. Princess visits the Happy Canteen
 * Mrs. Princess is believed to be the mother of Little Bean Sprout
-* Mrs. Princess is known by some in the Chinese community as Beautiful Hair
+* Mrs. Princess is known by some in the Chinese community as Fried Hair
 
 Known Sightings
 
