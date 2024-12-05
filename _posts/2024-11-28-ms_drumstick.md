@@ -2,7 +2,7 @@
 layout: post
 title: Ms. Drumstick
 tags: [Auspicious Restaurant]
-thumbnail-img: https://streetcatlove.github.io/hellostreetcat/assets/img/ms_.png
+thumbnail-img: https://streetcatlove.github.io/hellostreetcat/assets/img/ms_drumstick.png
 comments: false
 ---
 
