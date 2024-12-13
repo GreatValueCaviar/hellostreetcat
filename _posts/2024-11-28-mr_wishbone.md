@@ -16,10 +16,10 @@ comments: false
 <details>
 <summary>Appearances</summary>
 <ul>
-	<li><a href="https://youtu.be/GTlM8umxdA4?si=BhEAap9lnn3YTh1w&t=12933">3/11/24 11:57</a></li>
-	<li><a href="https://youtu.be/zeyPjQK6R7Y?si=K-_UsYQOPL0bgyx1&t=379">6/24/24 14:38</a></li>
-	<li><a href="https://youtu.be/uTQNOyQwXUs?si=C3ymTcTxDSkzK7ta&t=770">7/18/24 04:48</a></li>
-	<li><a href="https://youtu.be/K1tgol635FM?si=W14c4Ww7Yprao9UL&t=42327">9/16/24 23:44</a></li>
+	<li><a href="https://youtu.be/GTlM8umxdA4?t=12933">3/11/24 11:57</a></li>
+	<li><a href="https://youtu.be/zeyPjQK6R7Y?t=379">6/24/24 14:38</a></li>
+	<li><a href="https://youtu.be/uTQNOyQwXUs?t=770">7/18/24 04:48</a></li>
+	<li><a href="https://youtu.be/K1tgol635FM?t=42327">9/16/24 23:44</a></li>
 </ul>
 </details>
 
