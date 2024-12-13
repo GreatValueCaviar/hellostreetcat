@@ -13,17 +13,13 @@ comments: false
 * Mama Tortiseshell visits at the 10K Cat House Feeder
 * Mama Tortiseshell is believed to be the mother of Ms. Tux and Mr. Edo
 
-Known Sightings
-
-[11/15/2024 20:06]()
-
 <details>
 <summary>Appearances</summary>
 <ul>
 	<li><a href="https://youtu.be/jTQrbsrfxnE?t=2586">8/4/24 00:45</a></li>
 	<li><a href="https://youtu.be/GsXSoVa2Zg0?t=5767">8/29/24 01:36</a></li>
 	<li><a href="https://youtu.be/I_DvZ121Xl0?t=38225">9/3/24 23:01</a></li>
-	<li><a href="">8/29/24 00:16</a></li>
+	<li><a href="https://youtu.be/v8rUQj95Suc?t=15982">9/5/24 16:25</a></li>
 	<li><a href="https://youtu.be/BO4XmAPnIak?t=10011">11/18/24 20:06</a></li>
 </ul>
 </details>
