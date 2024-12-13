@@ -19,6 +19,6 @@ comments: false
 <details>
 <summary>Appearances</summary>
 <ul>
-	<li><a href="https://youtu.be/MHflRWkKCNA?si=24A5o4DjHlagMeac&t=2921">11/28/24 01:49</a></li>
+	<li><a href="https://youtu.be/MHflRWkKCNA?t=2921">11/28/24 01:49</a></li>
 </ul>
 </details>
