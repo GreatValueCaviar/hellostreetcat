@@ -18,6 +18,7 @@ comments: false
 	<li><a href="https://youtu.be/4aO6f1kgMaU?t=1468">8/28/24 00:04</a></li>
 	<li><a href="https://youtu.be/RzMebKW08rY?t=63">9/19/24 00:16</a></li>
 	<li><a href="https://youtu.be/a56l4-SChfg?t=4575">11/19/24 15:07</a></li>
+	<li><a href="https://youtu.be/WxJZOuS5qCg?t=21449">12/7/24 18:57</a></li>
 </ul>
 </details>
 
